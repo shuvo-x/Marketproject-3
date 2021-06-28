@@ -1,0 +1,28 @@
+.unknown{
+    background-color: #14171c;
+    padding-top:35px;
+    padding-bottom:35px;
+}
+.unknown-img{
+    width: 480px;
+    height:420px;
+}
+.unkwn-writting-part{
+    margin: 100px 15px;
+}
+.unkwn-writting-part h1 {
+    color:white;
+    opacity: .8;
+    font-weight: 700;
+}
+.unkwn-writting-part p{
+    color:white;
+    opacity: .8;
+}
+@media screen and (max-width: 1200px) and (min-width: 760px){
+    .unknown-img{
+        width:100%;
+        height: 70%;
+        margin-top: 20%;
+    }
+}

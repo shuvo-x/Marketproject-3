@@ -1,0 +1,70 @@
+
+
+.navbar-brand{
+  
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight:700 ;
+}
+#logo{
+    width:40px;
+}
+ 
+.navbar-brand span{
+     font-size: 20px;
+     margin:0px 5px;
+}
+
+
+
+.navbar-light .navbar-nav .nav-link {
+    color: black;
+    padding: 16px 25px;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: 600;
+   
+   
+}
+.navbar-light .navbar-nav .nav-link:hover{
+    color:rgb(228, 0, 159);
+}
+.btn-help {
+    padding: 5px 16px;
+    border-radius: 35px;
+    font-size: 12px;
+    background-color: black;
+    color: #fff;
+    margin: 7px 10px;
+    border:1px solid white;
+    cursor: pointer;
+    box-shadow: none;
+}
+.btn-help:hover {
+    background: linear-gradient(rgb(236, 0, 98),     rgb(219, 9, 202));
+    box-shadow: none;
+}
+.navbar-light .navbar-toggler {
+    color: white;
+    border-color: white;
+    border:1px solid white;
+}
+
+
+  
+.checkFloat{
+    background-color: rgb(73, 174, 187);
+    overflow: hidden;
+}
+.btn-s{
+    float: right;
+    padding: 2px 18px;
+    margin-right: 40px;
+    font-size: 13px;
+    border: 1px solid rgb(42, 168, 206);
+    background:linear-gradient(rgb(73, 174, 187),     rgb(81, 18, 94)) ;
+    color: rgb(206, 190, 190);
+}
+.bg-clors{
+    background-color: rgba(238,240,237,255);
+
+}
